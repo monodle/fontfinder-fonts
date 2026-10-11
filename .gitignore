@@ -175,3 +175,4 @@ package-lock.json
 fonts/
 fonts_old/
 repo/
+repo-manifest.json
