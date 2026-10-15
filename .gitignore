@@ -167,6 +167,7 @@ sample/
 *.otf
 *.pdf
 *.txt
+output/
 
 package.json
 pnpm-lock.yaml
